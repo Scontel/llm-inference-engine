@@ -55,3 +55,4 @@
 2023-02-02T00:00:00 - test: add integration tests
 2023-02-02T00:00:00 - test: add unit tests
 2023-02-03T00:00:00 - test: improve coverage
+2023-02-03T00:00:00 - perf: reduce memory

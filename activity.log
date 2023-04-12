@@ -153,3 +153,4 @@
 2023-04-10T00:00:00 - test: add unit tests
 2023-04-10T00:00:00 - refactor: modularize
 2023-04-10T00:00:00 - docs: update install guide
+2023-04-12T00:00:00 - perf: speed up inference

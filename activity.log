@@ -231,3 +231,4 @@
 2023-05-17T00:00:00 - style: fix formatting
 2023-05-18T00:00:00 - test: add integration tests
 2023-05-18T00:00:00 - fix: correct model training
+2023-05-18T00:00:00 - feat: add data support

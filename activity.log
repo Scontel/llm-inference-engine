@@ -232,3 +232,4 @@
 2023-06-06T00:00:00 - feat: add new feature
 2023-06-06T00:00:00 - test: add integration tests
 2023-06-06T00:00:00 - feat: add data support
+2023-06-07T00:00:00 - perf: speed up inference

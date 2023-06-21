@@ -254,3 +254,4 @@
 2023-06-20T00:00:00 - refactor: clean up code
 2023-06-21T00:00:00 - docs: add API docs
 2023-06-21T00:00:00 - fix: resolve bug
+2023-06-21T00:00:00 - fix: correct model training

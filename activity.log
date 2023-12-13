@@ -525,3 +525,4 @@
 2023-12-12T00:00:00 - perf: optimize performance
 2023-12-12T00:00:00 - style: fix formatting
 2023-12-13T00:00:00 - test: improve coverage
+2023-12-13T00:00:00 - perf: speed up inference

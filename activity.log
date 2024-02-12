@@ -579,3 +579,4 @@
 2024-02-06T00:00:00 - feat: add data support
 2024-02-09T00:00:00 - docs: update install guide
 2024-02-09T00:00:00 - refactor: modularize
+2024-02-12T00:00:00 - test: add unit tests

@@ -700,3 +700,4 @@
 2024-05-09T00:00:00 - perf: speed up inference
 2024-05-09T00:00:00 - docs: update install guide
 2024-05-10T00:00:00 - perf: reduce memory
+2024-05-10T00:00:00 - refactor: improve code

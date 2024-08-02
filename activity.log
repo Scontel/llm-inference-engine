@@ -828,3 +828,4 @@
 2024-08-01T00:00:00 - perf: speed up inference
 2024-08-01T00:00:00 - style: fix formatting
 2024-08-01T00:00:00 - fix: resolve bug
+2024-08-02T00:00:00 - fix: handle edge cases

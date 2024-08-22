@@ -889,3 +889,4 @@
 2024-08-20T00:00:00 - refactor: modularize
 2024-08-20T00:00:00 - feat: add data support
 2024-08-22T00:00:00 - perf: speed up inference
+2024-08-22T00:00:00 - fix: correct model training

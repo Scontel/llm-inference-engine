@@ -1166,3 +1166,4 @@
 2025-03-06T00:00:00 - test: add unit tests
 2025-03-07T00:00:00 - feat: add new feature
 2025-03-07T00:00:00 - fix: handle edge cases
+2025-03-11T00:00:00 - perf: speed up inference

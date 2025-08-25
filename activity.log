@@ -1400,3 +1400,4 @@
 2025-08-21T00:00:00 - style: fix formatting
 2025-08-21T00:00:00 - docs: update install guide
 2025-08-21T00:00:00 - refactor: modularize
+2025-08-25T00:00:00 - perf: speed up inference

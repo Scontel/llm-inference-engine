@@ -1651,3 +1651,4 @@
 2026-03-20T00:00:00 - docs: update install guide
 2026-03-23T00:00:00 - docs: update install guide
 2026-03-23T00:00:00 - test: add unit tests
+2026-03-23T00:00:00 - refactor: modularize
